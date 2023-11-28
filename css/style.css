@@ -44,6 +44,8 @@ body{
     z-index: 1000;
 }
 
+
+
 .menu .logo{
     color: #FECE00;
     font-size: 22px;
@@ -348,7 +350,7 @@ h2{
 
     .footer{
         flex-direction: column;
-        text-align: center;
+        text-align: center;   
         padding: 38px;
     }
 }
